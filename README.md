@@ -19,9 +19,9 @@ Artificial Intelligence (AI)
 
 ## 🚀 How to Run
 1. Install dependencies:  
-   `pip install opencv-python numpy`
-2. Run `train_model.py` to capture and train face data.
-3. Run `recognize.py` to start real-time recognition.
+   `pip install opencv-python numpy pickle5`   
+
+2. Run `real_time_face_recognition_02.py` to capture your face and if you want to save your face in Pkl file just save your face with your name and when run again the programe show the register name with register faces
 
 ## 👤 Author
 Developed by **Abdul Salam** as part of AI coursework at **SBBU Sheringal**.
